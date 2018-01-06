@@ -1,2 +1,2 @@
 # hello-world
-I am Beata. I'm leraning Python and SQL
+I am Beata. I'm learning Python and SQL
